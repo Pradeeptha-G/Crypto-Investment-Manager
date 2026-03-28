@@ -37,11 +37,6 @@ Crypto Investment Manager helps users analyze crypto data, predict trends, and g
 
 ---
 
-## 📸 Output
-(Add screenshots here if needed)
-
----
-
 ## 📄 Documentation
 - [Agile Documentation](docs/agile.md)
 
