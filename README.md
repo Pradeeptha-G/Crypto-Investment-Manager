@@ -62,15 +62,6 @@ Crypto-Investment-Manager/
 
 ---
 
-## 📸 Output Screenshots
-
-(Add your images below 👇)
-
-![Dashboard](docs/your_image1.png)
-![Prediction](docs/your_image2.png)
-
----
-
 ## 📄 Documentation
 
 * 📘 [Agile Documentation](docs/agile.md)
